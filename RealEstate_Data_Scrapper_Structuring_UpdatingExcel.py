@@ -62,7 +62,7 @@ def visualizeEvaluationHist(df):
     plt.show()
     return None
 
-# :::-----------[Visualize Keyword Frequencies after Evaluation]--_---------:::
+# :::-----------[Visualize Keyword Frequencies after Evaluation]------------:::
 def visualizeKeywordsFreq(bow):
     import matplotlib.pyplot as plt
     import numpy as np
